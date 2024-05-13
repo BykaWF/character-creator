@@ -77,6 +77,8 @@ function App() {
           />
         </div>
       </MaxWidthWrapper>
+      <div className={styles.box}>
+      </div>
 
       <div className={styles.characterWrapper}>
         <Character
